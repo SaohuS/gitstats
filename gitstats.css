@@ -3,7 +3,7 @@
  */
 body {
 	color: black;
-	background-color: #dfd;
+	background-color: #fff;
 }
 
 dt {
@@ -88,14 +88,14 @@ td {
 .nav li a {
 	padding: 0.3em;
 	text-decoration: none;
-	color: black;
-	border: 1px solid black;
+	color: white;
+	border: 1px solid white;
 	margin: 0.5em;
-	background-color: #ddf;
+	background-color: #0000C6;
 }
 
 .nav li a:hover {
-	background-color: #ddd;
+	background-color: #444444;
 	border-bottom: 1px solid #ddf;
 }
 
